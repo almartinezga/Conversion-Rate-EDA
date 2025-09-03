@@ -19,7 +19,7 @@ The goal is to **understand how user behavior differs by browser and geography**
 - `README.md` → This documentation.  
 - `Conversion Rate EDA.ipynb` → Python script with cleaning, feature engineering, and exploratory analysis (visualizations included).
 - `Conversion Rate EDA.sql` → SQL queries for validation, aggregations, and exploratory analysis. 
-- ``executive_presentation.pptx``→ Executive summary presentation with key questions insights for stakeholders.
+- ``Conversion Rate Findings & conclusions.pptx``→ Executive summary presentation with key questions insights for stakeholders.
 
 ⚠️ Note: Since the dataset is not public, I cannot share it in the repository. However, the repository shows the methodology, scripts, and structure of the analysis.
 
